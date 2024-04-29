@@ -3,7 +3,7 @@ import React from 'react'
 export default function Vision() {
   return (
     <div>
-      vision page
+      this is vision page
     </div>
   )
 }
