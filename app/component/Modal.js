@@ -3,7 +3,7 @@ import React from 'react';
 const Modal = () => {
     return (
         <div>
-            This is modal
+            This is modal component
         </div>
     );
 };
